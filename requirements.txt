@@ -1,2 +1,2 @@
 gym==0.12.1
-tensorflow==2.0.0.a0
+tensorflow==2.5.3
